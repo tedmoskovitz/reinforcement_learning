@@ -1,3 +1,5 @@
+### This repository contains my solutions to Denny Britz's short course on reinforcement learning. The description is below (and the original repository can be found [here](https://github.com/dennybritz/reinforcement-learning)). 
+
 ### Overview
 
 This repository provides code, exercises and solutions for popular Reinforcement Learning algorithms. These are meant to serve as a learning tool to complement the theoretical materials from
